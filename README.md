@@ -20,10 +20,10 @@ Udacity Arvato Capstone for Data Science Nano Degree
  This project is part of Udacity DSND capstone. This project will help be develop data wrangling skills, unsupervised learning methods such as PCA(Principle component analysis) and k-NN(k-nearest neighbour), along with supervised machine learning skills.
  
  ### File Description
- README.MD- This decribes the contents in this repo
- Arvato Project Workbook.ipynb - Jupyter notebook file which has all the codes for this project
- DIAS Infromation Levels-Attributes 2017.xlsx and DIAS Attributes-Values 2017.xlsx contains information about the features in the dataset used for this project.
- Dataset for this project has not been included in this repo.
+ - README.MD- This decribes the contents in this repo
+ - Arvato Project Workbook.ipynb - Jupyter notebook file which has all the codes for this project
+- DIAS Infromation Levels-Attributes 2017.xlsx and DIAS Attributes-Values 2017.xlsx contains information about the features in the dataset used for this project.
+- Dataset for this project has not been included in this repo.
  
  ### Summary of results
  
