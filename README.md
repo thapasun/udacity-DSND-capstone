@@ -26,5 +26,8 @@ Udacity Arvato Capstone for Data Science Nano Degree
 - Dataset for this project has not been included in this repo.
  
  ### Summary of results
- 
+ Please refer to medium blog post for the summary (https://medium.com/@sthapaphys/understanding-the-customer-segmentation-for-arvato-financial-services-e1ae96f6da4d)
  ### Acknowledgements
+https://www.kaggle.com/dansbecker/advanced-uses-of-shap-values
+https://towardsdatascience.com/udacity-data-scientice-nano-degree-capstone-project-create-customer-segmentation-report-for-852d3e6d3180
+https://github.com/slundberg/shap
